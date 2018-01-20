@@ -1,2 +1,2 @@
 # clases-ml
-notas de clase
+incluye notas de clase, ejercicios y un tutorial de octave
